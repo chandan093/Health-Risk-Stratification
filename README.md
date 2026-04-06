@@ -32,7 +32,13 @@ The project uses the following datasets:
 4. Model prediction:
    - Predicts risk level (High / Low)  
    - Outputs probability score  
-5. Streamlit web app for user interaction  
+5. Streamlit web app for user interaction
+
+## 🤖 Model Used
+- Logistic Regression (or whatever you used)
+
+## 📈 Model Performance
+- Accuracy: XX% (add if you have)
 ---
 
 ## 🚀 How to Run the Project
@@ -41,3 +47,4 @@ The project uses the following datasets:
 ```bash
 git clone https://github.com/your-username/Health-Risk-Stratification.git
 cd Health-Risk-Stratification
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 124256" src="https://github.com/user-attachments/assets/aefb6a9e-47f9-4508-bb08-db816c242192" />
