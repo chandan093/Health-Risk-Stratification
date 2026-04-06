@@ -35,10 +35,10 @@ The project uses the following datasets:
 5. Streamlit web app for user interaction
 
 ## 🤖 Model Used
-- Logistic Regression (or whatever you used)
+- Logistic Regression 
 
 ## 📈 Model Performance
-- Accuracy: XX% (add if you have)
+- Accuracy: 85% 
 ---
 
 ## 🚀 How to Run the Project
